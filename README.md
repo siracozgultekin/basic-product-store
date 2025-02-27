@@ -10,3 +10,5 @@ Web-based basic level storage application with CRUD operations and APIs
 - **DaisyUI** – Tailwind CSS component library for a sleek and customizable UI.  
 - **Arcjet** – Security-focused for API interactions.  
 
+initDB directory: backend/server.js
+![image](https://github.com/user-attachments/assets/7a999b25-13b4-4996-95a1-be262e90d930)
