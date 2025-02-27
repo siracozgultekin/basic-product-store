@@ -1,4 +1,4 @@
-Web-based basic level storage application with CRUD operations and APIs
+Web-based basic level store application with CRUD operations and APIs
 
 ## Tech Stack 📌  
 
