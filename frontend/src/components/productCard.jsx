@@ -9,7 +9,13 @@ const ProductCard = ({ product }) => {
   return (
     <div className="card glass w-96">
       <figure>
-        <img src={product.image} alt="car!" />
+        <img
+          src={product.image}
+          alt="car!"
+          className="max-h-64 "
+          objectFit="cover"
+          //write css for image cover
+        />
       </figure>
       <div className="card-body">
         <h2 className="card-title">{product.name}</h2>
